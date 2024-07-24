@@ -109,7 +109,7 @@ module Web.Hyperbole
 
     -- ** Sessions
   , session
-  , setSession
+    , setSession
   , clearSession
 
     -- * Advanced
